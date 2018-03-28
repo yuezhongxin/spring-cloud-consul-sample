@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-ribbon/spring-boot-ribbon.iml" filepath="$PROJECT_DIR$/spring-boot-ribbon/spring-boot-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-service/spring-boot-service.iml" filepath="$PROJECT_DIR$/spring-boot-service/spring-boot-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-sample.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-sample.iml" />
+    </modules>
+  </component>
+</project>
